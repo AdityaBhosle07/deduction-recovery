@@ -1,0 +1,16 @@
+[
+  { "id": 10, "name": "KeHE", "type": "Distributor", "region": "US" },
+  { "id": 11, "name": "UNFI", "type": "Distributor", "region": "US" },
+  { "id": 12, "name": "Gordon Food Service", "type": "Distributor", "region": "US" },
+  { "id": 13, "name": "Dot Foods", "type": "Distributor", "region": "US" },
+  { "id": 14, "name": "Kroger", "type": "Retailer", "region": "US" },
+  { "id": 15, "name": "Target", "type": "Retailer", "region": "US" },
+  { "id": 16, "name": "Walmart", "type": "Retailer", "region": "US" },
+  { "id": 17, "name": "Amazon", "type": "Retailer", "region": "US" },
+  { "id": 18, "name": "WinCo Foods", "type": "Retailer", "region": "US" },
+  { "id": 19, "name": "Loblaw", "type": "Retailer", "region": "CA" },
+  { "id": 20, "name": "Ahold Delhaize", "type": "Retailer", "region": "US" },
+  { "id": 21, "name": "BJ's Wholesale Club", "type": "Retailer", "region": "US" },
+  { "id": 22, "name": "H-E-B", "type": "Retailer", "region": "US" },
+  { "id": 23, "name": "CVS", "type": "Retailer", "region": "US" }
+]

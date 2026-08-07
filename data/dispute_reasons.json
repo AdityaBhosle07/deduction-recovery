@@ -1,0 +1,12 @@
+[
+  { "code": "SHORT", "label": "Shortage", "category": "Logistics", "typically_disputable": true },
+  { "code": "PRICE", "label": "Pricing", "category": "Pricing", "typically_disputable": true },
+  { "code": "FREIGHT", "label": "Freight", "category": "Logistics", "typically_disputable": true },
+  { "code": "OSD", "label": "OS&D", "category": "Logistics", "typically_disputable": true },
+  { "code": "COMP", "label": "Compliance Fine", "category": "Compliance", "typically_disputable": true },
+  { "code": "SPOIL", "label": "Spoilage", "category": "Quality", "typically_disputable": false },
+  { "code": "UNSAL", "label": "Unsaleables", "category": "Quality", "typically_disputable": false },
+  { "code": "MCB", "label": "Bill Back / MCB", "category": "Trade", "typically_disputable": false },
+  { "code": "PROMO", "label": "Promotional Allowance", "category": "Trade", "typically_disputable": false },
+  { "code": "OTHER", "label": "Other / Unknown", "category": "Other", "typically_disputable": false }
+]

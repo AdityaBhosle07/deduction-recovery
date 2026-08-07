@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Cascade Snacks Co.",
+    "slug": "cascade-snacks",
+    "erp_system": "NetSuite",
+    "default_currency": "USD",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Northfield Beverage",
+    "slug": "northfield-bev",
+    "erp_system": "QuickBooks Online",
+    "default_currency": "USD",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Pacific Pantry Co.",
+    "slug": "pacific-pantry",
+    "erp_system": "NetSuite",
+    "default_currency": "USD",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Harbor & Vine Foods",
+    "slug": "harbor-vine",
+    "erp_system": "Xero",
+    "default_currency": "CAD",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Sunbelt Organics",
+    "slug": "sunbelt-organics",
+    "erp_system": null,
+    "default_currency": "USD",
+    "is_active": false
+  }
+]
