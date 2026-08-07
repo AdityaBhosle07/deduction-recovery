@@ -383,7 +383,3 @@ curl -s http://localhost:8000/api/companies | grep -i pacific
 | Cents display | `$141.72` not `$142` |
 
 ---
-
-## License / submission notes
-
-Private take-home submission. Add collaborators as required by the hiring process. Loom walkthrough should cover: dashboard → company filter → list/filters → full dispute path (draft → submitted → in review → partial/won) → recovery KPIs → data-quality flags.
